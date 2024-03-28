@@ -19,3 +19,5 @@ Deep learning Layers learned:
 
 Conclusion: Even though this project was not able to reach the objective it taught me a wealth of information on LSTMS and deep learning in general. This repository is just for my own record keeping,
 but anyone can use this file to learn more about pytorch and LSTMs like I did.
+
+(learn) - part of a learning series I am doing to self teach myself deep learning and generative AI 
